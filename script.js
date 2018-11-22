@@ -124,3 +124,5 @@ function draw() {
 }
 //call draw func every 100ms
 let game = setInterval(draw,300);
+
+console.log("hello")
